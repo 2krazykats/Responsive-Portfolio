@@ -1,0 +1,34 @@
+
+
+#cuteCats {
+
+}
+
+
+#cat1, #cat2, #cat3, #cat4 {
+  width: 160px;
+  margin-left: 10px;
+  float: left;
+  position: relative;
+}
+
+.caption {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  bottom: 6px;
+  left: 0px;
+  padding-top: 8px;
+  background-color: #4aaaa5 ;
+  color: black;
+  text-align: center;
+  font-size: 12px;
+}
+/*
+#cat1Desc, #cat3Desc {
+  background-color: #4aaaa5;
+  text-align: center;
+  width: 150px ;
+  margin: -30px;
+  float: left;
+}*/
