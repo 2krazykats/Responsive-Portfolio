@@ -158,11 +158,12 @@ footer {
 
   .aboutMeDiv {
     width: 30%;
+    height: auto;
   }
 
   .myPic {
-    width: 200%;
-    overflow: auto;
+    width: 100%;
+    margin: 0;
   }
 
   .connectWithMeHead {
@@ -190,6 +191,16 @@ footer {
 
   .mainDiv {
     overflow: auto;
+  }
+
+  .aboutMeDiv {
+    width: 50%;
+    height: auto;
+  }
+
+  .myPic {
+    width: 100%;
+    margin: 0;
   }
 
 }
@@ -227,7 +238,7 @@ footer {
     width: 170%;
     height: auto;
     float: left;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   .caption {
