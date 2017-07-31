@@ -24,11 +24,7 @@
   text-align: center;
   font-size: 12px;
 }
-/*
-#cat1Desc, #cat3Desc {
-  background-color: #4aaaa5;
-  text-align: center;
-  width: 150px ;
-  margin: -30px;
-  float: left;
+
+/*.clearFix {
+  clear: both;
 }*/
